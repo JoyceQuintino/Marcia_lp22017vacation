@@ -6,9 +6,11 @@ namespace unittests
     public class UnitTest1
     {
         [Fact]
-        public void Test1()
+        public void TestarIdade()
         {
-
+            Pessoa p = new Pessoa();
+            bool r = p.Idade(20);
+            Assert.IsTrue(r, "Testado");
         }
     }
 }

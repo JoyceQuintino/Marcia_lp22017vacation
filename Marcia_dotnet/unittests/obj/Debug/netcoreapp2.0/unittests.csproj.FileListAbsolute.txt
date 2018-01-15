@@ -1,0 +1,3 @@
+C:\Users\Marcia Andrea\Desktop\Marcia_lp22017vacation\Marcia_dotnet\unittests\obj\Debug\netcoreapp2.0\unittests.csproj.CoreCompileInputs.cache
+C:\Users\Marcia Andrea\Desktop\Marcia_lp22017vacation\Marcia_dotnet\unittests\obj\Debug\netcoreapp2.0\unittests.AssemblyInfoInputs.cache
+C:\Users\Marcia Andrea\Desktop\Marcia_lp22017vacation\Marcia_dotnet\unittests\obj\Debug\netcoreapp2.0\unittests.AssemblyInfo.cs
